@@ -14,7 +14,7 @@ Right now ,I have successfully compiled twrp for my device and it is being under
 ##### PROCESSOR   -MEDIATEK DIMENSITY 7300
 ##### STORAGE     -6/8GB 128GB UFS 3.1
 ##### DISPLAY     -1200*2400 (AMOLED)
-##### OS          -STOCK
+##### OS          -ANDROID 15 VNDK 14
 
 ## WORKING ON TWRP
 ##### NO BOOTLOOPING
